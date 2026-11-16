@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 五条线程汇聚到中心 -->
+    <path
+        android:pathData="M54,54 L31,31 M54,54 L54,25 M54,54 L77,31 M54,54 L31,77 M54,54 L77,77"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="5"
+        android:strokeLineCap="round" />
+
+    <!-- 中心 CPU 核心 -->
+    <path
+        android:pathData="M54,42 a12,12 0 1,0 0,24 a12,12 0 1,0 0,-24"
+        android:fillColor="#FFFFFF" />
+</vector>

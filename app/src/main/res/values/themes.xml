@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ThreadPilot" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/miui_bg_light</item>
+        <item name="android:statusBarColor">@color/miui_bg_light</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">@color/miui_bg_light</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+    <color name="miui_bg_light">#F4F5F7</color>
+</resources>
